@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	cout << "Hello";
+	int x = 38 % 10;
+	if (x == 6) {
+	   x = 60;
+	}
+	itn y = 70;
+	int #z = 80;
+	
+	return 0;
+}
+
