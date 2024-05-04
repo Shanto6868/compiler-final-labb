@@ -1,4 +1,3 @@
-//# compiler-final-labb
 #include <iostream>
 #include <fstream>
 #include <stdlib.h>
